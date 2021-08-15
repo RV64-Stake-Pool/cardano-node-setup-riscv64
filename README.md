@@ -75,17 +75,20 @@ git checkout ghc-8.10.4-release-risc5-patches
 
 # cabal-install
 
-
 # Building
+
+
 
 # Running
 
+Follow the instructions available add/replace the RTS options for `cardanode-node` with these values `+RTS -N3 --disable-delayed-os-memory-return -I0.3 -Iw600 -A32m -F1.5 -H3000M -T -S -RTS`.
 
+## Download pre-compiled binaries
 
-## Download binaries
+Cabal and GHC are only needed for development/compiling new releases.
 
-* Patched GHC 8.10.4
-* Cabal
-* libsodium
-* Cardano Node
+* [Patched GHC 8.10.4](https://ipfs.io/ipfs/QmXSSxRZK9mPvgLxR5vuKm5gPBiy6NmKTcpUk5K4FXx1Tm?filename=ghc-8.10.4-patched.tar.gz)
+* [Cabal 3.4.0.0](https://ipfs.io/ipfs/QmT94BAFioQ5XL9Foytk2QHHLtpfD2kUQ8Y958cg4Dc2Ki?filename=cabal-3.4.0.0-riscv64.tgz)
+* [libsodium](https://ipfs.io/ipfs/QmXLkhEfs5fHyows7xZARiNxGMSpRP3uj25SQL5Kpk3srN?filename=libsodium.tgz)
+* [Cardano Node 1.28.0](https://ipfs.io/ipfs/QmUxY1VFhWPpTsK8eGfBrHQTW6EqfgfAJxYgSFK1hTyFh9?filename=cardano-1.28.0.tgz)
 
