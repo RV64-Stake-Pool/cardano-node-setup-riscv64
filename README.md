@@ -272,4 +272,5 @@ Cabal and GHC are only needed for development/compiling new releases.
 * [Cabal 3.4.0.0](https://ipfs.io/ipfs/QmT94BAFioQ5XL9Foytk2QHHLtpfD2kUQ8Y958cg4Dc2Ki?filename=cabal-3.4.0.0-riscv64.tgz)
 * [libsodium](https://ipfs.io/ipfs/QmXLkhEfs5fHyows7xZARiNxGMSpRP3uj25SQL5Kpk3srN?filename=libsodium.tgz)
 * [Cardano Node 1.28.0](https://ipfs.io/ipfs/QmUxY1VFhWPpTsK8eGfBrHQTW6EqfgfAJxYgSFK1hTyFh9?filename=cardano-1.28.0.tgz)
+* [Cardano Node 1.29.0](https://ipfs.io/ipfs/QmTXufhfHDebA5RQtV8Jy18KJkiLp9HaEzsK46qTLQmpnL?filename=cardano-1.29.0-4c594429.tgz)
 
